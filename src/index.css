@@ -185,8 +185,9 @@
     }
 
     .modal__close{
-        top: -9% !important;
+        top: 1% !important;
         right: 0 !important;
+
     }
 }
 
