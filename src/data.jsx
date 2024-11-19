@@ -61,13 +61,13 @@ export const personalInfo = [
   {
     id: 1,
     title: 'First Name : ',
-    description: 'Haseeb',
+    description: 'Soban',
   },
 
   {
     id: 2,
     title: 'Last Name : ',
-    description: 'Haider',
+    description: 'Khan',
   },
 
   {
@@ -91,25 +91,25 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: 'Punjab Jhang',
+    description: 'Punjab Faisalabad',
   },
 
   {
     id: 7,
     title: 'Phone : ',
-    description: '+92 349 7953370',
+    description: '+92 324 1087295',
   },
 
   {
     id: 8,
     title: 'Email : ',
-    description: 'Haseebhaideri760@gmail.com',
+    description: 'rsoban22@gmail.com',
   },
 
   {
     id: 9,
     title: 'Whatsapp : ',
-    description: '+92 349 7953370',
+    description: '+92 324 1087295',
   },
 
   {
